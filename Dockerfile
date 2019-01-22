@@ -1,5 +1,5 @@
 FROM python:2
-MAINTAINER hulkibrain <alevoorsoorya01@gmail.com>
+MAINTAINER surya <suryasundarraj@live.com>
 
 # Installing dependencies for linux installation of opencv
 RUN apt-get update && \
